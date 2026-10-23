@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00E5FF,50:3D5AFE,100:8A2BE2&section=header&text=Amad%20Abdullahi%20Shire&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Amad55a%20%C2%B7%20DevOps%20%C2%B7%20AI%20%C2%B7%20Databases%20%C2%B7%20Security&descSize=18&descAlignY=58" alt="Amad Abdullahi Shire banner with a cyan to violet gradient" width="100%" />
 
 <a href="https://github.com/Amad55a">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+MERN+Developer;DevOps+Engineer;AI+Engineer;Database+Administrator;Cybersecurity+Learner" alt="Animated text cycling through: Full-Stack MERN Developer, DevOps Engineer, AI Engineer, Database Administrator, Cybersecurity Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+MERN+Developer;Mobile+%26+Desktop+App+Developer;DevOps+Engineer;AI+Engineer;Database+Administrator;Cybersecurity+Learner" alt="Animated text cycling through: Full-Stack MERN Developer, Mobile and Desktop App Developer, DevOps Engineer, AI Engineer, Database Administrator, Cybersecurity Learner" />
 </a>
 
 <br/>
@@ -19,6 +19,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/MERN-00E5FF?style=for-the-badge&logo=mongodb&logoColor=0D1117" alt="MERN stack badge" />
+<img src="https://img.shields.io/badge/Mobile_%26_Desktop-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile and desktop apps badge" />
 <img src="https://img.shields.io/badge/DevOps-3D5AFE?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps badge" />
 <img src="https://img.shields.io/badge/Applied_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Applied AI badge" />
 <img src="https://img.shields.io/badge/Databases-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF" alt="Databases badge" />
@@ -39,6 +40,7 @@ amad@lab:~$ ./intro.sh
 │  > name      Amad Abdullahi Shire                       │
 │  > role      Full-Stack MERN Developer                  │
 │  > also      DevOps Engineer · Database Administrator   │
+│  > builds    Web · Mobile · Desktop apps                │
 │  > focus     Applied AI · Automation · Security         │
 │  > mode      Learning in public                         │
 │                                                         │
@@ -49,7 +51,7 @@ amad@lab:~$ ./intro.sh
 
 ## 👤 About
 
-I'm Amad Abdullahi Shire, a developer who likes turning ideas into software people can actually use. I build full-stack web apps with the MERN stack, automate how software is built and shipped with DevOps tooling, work with databases, and explore how AI can be applied in practical ways, for example local models that keep your data on your own machine.
+I'm Amad Abdullahi Shire, a developer who likes turning ideas into software people can actually use. I build full-stack web apps with the MERN stack, create mobile apps with React Native and Flutter and desktop apps with Electron, automate how software is built and shipped with DevOps tooling, work with databases, and explore how AI can be applied in practical ways, for example local models that keep your data on your own machine.
 
 I'm also learning cybersecurity with an ethical, defensive mindset: understanding how things break so I can build them to hold up.
 
@@ -67,6 +69,14 @@ I'm also learning cybersecurity with an ethical, defensive mindset: understandin
 
 </div>
 
+### Mobile, desktop and Java
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,electron,java&perline=8" alt="React Native, Flutter, Dart, Electron and Java icons" />
+
+</div>
+
 ### DevOps, automation and databases
 
 <div align="center">
@@ -81,6 +91,9 @@ I'm also learning cybersecurity with an ethical, defensive mindset: understandin
 |---|---|
 | **MERN** | MongoDB · Express.js · React · Node.js |
 | **Front end** | JavaScript · HTML · CSS · Tailwind CSS |
+| **Mobile apps** | React Native · Flutter (Dart) |
+| **Desktop apps** | Electron |
+| **Languages** | JavaScript · Java · Python · Bash |
 | **Containers and orchestration** | Docker · Kubernetes |
 | **CI/CD and automation** | Jenkins · Ansible · Bash · Python |
 | **Infrastructure as code** | Terraform |
@@ -138,6 +151,23 @@ I'm also learning cybersecurity with an ethical, defensive mindset: understandin
 | 💾 **Reliability** | Backup, recovery and access control |
 
 <!-- EDIT: adjust to the database work you actually do -->
+
+---
+
+## 📱 Mobile and desktop apps
+
+```text
+  one idea ──► web (React) ──► mobile (React Native · Flutter) ──► desktop (Electron)
+```
+
+| Focus | What it means to me |
+|---|---|
+| ⚛️ **React Native** | Build iOS and Android apps with React and JavaScript |
+| 🦋 **Flutter** | Build polished cross-platform apps with Dart |
+| 🖥️ **Electron** | Turn web technology into desktop applications |
+| ☕ **Java** | Object-oriented programming and Java applications |
+
+<!-- EDIT: link a real mobile or desktop project here once you have one -->
 
 ---
 
@@ -208,9 +238,9 @@ A JavaScript project pinned on my profile.
 
 ### 🔮 Next up
 
-Room reserved for future MERN, DevOps and AI projects.
+Room reserved for future MERN, mobile, desktop, DevOps and AI projects.
 
-`MERN` `DevOps` `LLM apps` `Secure by design`
+`MERN` `Mobile` `Desktop` `DevOps` `LLM apps`
 
 [Browse all repositories →](https://github.com/Amad55a?tab=repositories)
 
