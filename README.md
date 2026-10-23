@@ -36,7 +36,7 @@ amad@lab:~$ ./intro.sh
 │                                                         │
 │  > role      Full-Stack MERN Developer                  │
 │  > focus     Applied AI · Secure software · Mentoring   │
-│  > org       Kafio Technology Center                    │
+
 │  > mode      Learning in public                         │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -48,7 +48,7 @@ amad@lab:~$ ./intro.sh
 
 I'm a developer who likes turning ideas into software people can actually use. Most of my work is full-stack web development with the MERN stack, and I'm exploring how AI can be applied in practical ways, for example local models that keep your data on your own machine.
 
-I'm also learning cybersecurity with an ethical, defensive mindset: understanding how things break so I can build them to hold up. At Kafio Technology Center I mentor and develop, and I enjoy helping other people get comfortable with technology as much as I enjoy building it.
+I'm also learning cybersecurity with an ethical, defensive mindset: understanding how things break so I can build them to hold up. 
 
 <!-- EDIT: add one or two personal sentences in your own voice -->
 
@@ -212,7 +212,6 @@ Room reserved for future MERN and AI projects.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Amad55a&theme=dark&background=0D1117&hide_border=true&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF" alt="GitHub contribution streak for Amad55a" />
 
 <br/>
 
