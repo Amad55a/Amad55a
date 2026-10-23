@@ -1,15 +1,15 @@
 <!--
-  Amad55a · GitHub profile README
+  Amad Abdullahi Shire (Amad55a) · GitHub profile README
   Place this file at the root of the public repo  Amad55a/Amad55a  as README.md
   Lines marked  EDIT  need your input before you publish.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00E5FF,50:3D5AFE,100:8A2BE2&section=header&text=Amad55a&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Security&descSize=18&descAlignY=58" alt="Amad55a banner with a cyan to violet gradient" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00E5FF,50:3D5AFE,100:8A2BE2&section=header&text=Amad%20Abdullahi%20Shire&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Amad55a%20%C2%B7%20AI%20%C2%B7%20Full-Stack%20%C2%B7%20Security&descSize=18&descAlignY=58" alt="Amad Abdullahi Shire banner with a cyan to violet gradient" width="100%" />
 
 <a href="https://github.com/Amad55a">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+MERN+Developer;AI+Engineer;Cybersecurity+Learner;Mentor+%26+Developer+%40+Kafio+Technology+Center" alt="Animated text cycling through: Full-Stack MERN Developer, AI Engineer, Cybersecurity Learner, Mentor and Developer at Kafio Technology Center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+MERN+Developer;AI+Engineer;Cybersecurity+Learner" alt="Animated text cycling through: Full-Stack MERN Developer, AI Engineer, Cybersecurity Learner" />
 </a>
 
 <br/>
@@ -34,9 +34,9 @@ amad@lab:~$ ./intro.sh
 ```text
 ┌─[ amad55a@command-center ]──────────────────────────────┐
 │                                                         │
+│  > name      Amad Abdullahi Shire                       │
 │  > role      Full-Stack MERN Developer                  │
 │  > focus     Applied AI · Secure software · Mentoring   │
-
 │  > mode      Learning in public                         │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -46,9 +46,9 @@ amad@lab:~$ ./intro.sh
 
 ## 👤 About
 
-I'm a developer who likes turning ideas into software people can actually use. Most of my work is full-stack web development with the MERN stack, and I'm exploring how AI can be applied in practical ways, for example local models that keep your data on your own machine.
+I'm Amad Abdullahi Shire, a developer who likes turning ideas into software people can actually use. Most of my work is full-stack web development with the MERN stack, and I'm exploring how AI can be applied in practical ways, for example local models that keep your data on your own machine.
 
-I'm also learning cybersecurity with an ethical, defensive mindset: understanding how things break so I can build them to hold up. 
+I'm also learning cybersecurity with an ethical, defensive mindset: understanding how things break so I can build them to hold up.
 
 <!-- EDIT: add one or two personal sentences in your own voice -->
 
@@ -88,34 +88,6 @@ I'm also learning cybersecurity with an ethical, defensive mindset: understandin
 | **AI** | Building more LLM-powered applications |
 
 <!-- EDIT: move items between "using" and "learning" so they match reality -->
-
----
-
-## 🎓 Kafio Technology Center
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Mentor & Developer
-
-I work at **Kafio Technology Center** as both a mentor and a developer, combining hands-on software work with helping others learn.
-
-</td>
-<td width="50%" valign="top">
-
-### What that looks like
-
-- 🧑‍🏫 **Teaching:** explaining technology in plain language
-- 🤝 **Collaboration:** building and learning alongside others
-- 💻 **Development:** writing and shipping software
-- 🌱 **Growth:** helping people take their next step in tech
-
-</td>
-</tr>
-</table>
-
-<!-- EDIT: add real specifics (courses taught, projects, topics) only if you want them shown -->
 
 ---
 
@@ -209,9 +181,6 @@ Room reserved for future MERN and AI projects.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amad55a&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub statistics card for Amad55a" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amad55a&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages across Amad55a's public repositories" />
-
-<br/>
-
 
 <br/>
 
